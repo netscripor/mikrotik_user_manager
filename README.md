@@ -110,7 +110,3 @@ colorama==0.4.3
 * Boosty: [boosty.to/netscripor](https://boosty.to/netscripor)
 
 ---
-- подготовить `pyproject.toml`, если планируется публикация.
-
-Готов продолжать?
-```
