@@ -57,6 +57,7 @@ python3 mikrotik_user_manager.py --mode create --file ip_list.txt --group write 
 ```bash
 python3 mikrotik_user_manager.py --mode delete --file ip_list.txt
 ```
+![add](https://github.com/user-attachments/assets/a2595180-ee97-47c4-b406-467c55435930)
 
 ---
 
