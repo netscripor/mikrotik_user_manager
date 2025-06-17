@@ -102,11 +102,10 @@ colorama==0.4.3
 ```
 
 ---
+📡 Подпишись и поддержи проект:
 
-## 👨‍💻 Автор
-
-* GitHub: [github.com/netscripor](https://github.com/netscripor)
-* Telegram: [t.me/netscripor](https://t.me/netscripor)
-* Boosty: [boosty.to/netscripor](https://boosty.to/netscripor)
+🔗 GitHub: [github.com/netscripor](https://github.com/netscripor)  
+💰 Boosty: [boosty.to/netscripor](https://boosty.to/netscripor)  
+✈️ Telegram-канал: [t.me/netscripor](https://t.me/netscripor)
 
 ---
