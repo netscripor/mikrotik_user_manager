@@ -58,7 +58,7 @@ def connect_and_execute(ip, auth, mode, target_user, password=None, group="full"
                 if allowed_addresses:
                     addr_list = ','.join(a.strip() for a in allowed_addresses.split(',') if a.strip())
                     cmd += f" address={addr_list}"
-                ssh.send_command_expect(cmd)
+                ssh.send_command(cmd, expect_string=None, strip_prompt=False, strip_command=False)
 
                 if wait_for_user(ssh, target_user):
                     msg = f"[+] Пользователь {target_user} создан на {ip}"
